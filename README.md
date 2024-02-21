@@ -1,4 +1,4 @@
-![image](https://github.com/Abburehan/Find-the-best-fit-line-using-Least-Squares-Method/assets/138849336/2ded4cee-28b8-4f2f-b8a0-556c6ba35e76)# Implementation of Univariate Linear Regression
+# Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -45,7 +45,7 @@ plt.plot(X,Y_pred,color='red')
 plt.show()
 ```
 ## Output:
-![image](https://github.com/Abburehan/Find-the-best-fit-line-using-Least-Squares-Method/assets/138849336/e4e48201-f650-4a79-a616-68184c34b0c6)
+![Screenshot (191)](https://github.com/Abburehan/Find-the-best-fit-line-using-Least-Squares-Method/assets/138849336/a6916a77-5c9c-4015-8985-a05e55879cf9)
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
